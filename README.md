@@ -10,7 +10,7 @@
   <p>안녕하세요.</p>
   <br/>
   
-  ## 💻 Tech Stack
+  ## Tech Stack
   
   ### 📚 Language
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
