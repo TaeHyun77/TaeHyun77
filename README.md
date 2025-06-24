@@ -27,9 +27,6 @@
   <br/>
   <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeHyun77&show_icons=true&theme=radical)
-
-
 </div>
   
 </div>
